@@ -1,0 +1,149 @@
+div.fondosuperior{
+    width: 100%;
+    color: white;
+    background-color: rgb(49, 49, 48);
+    text-align: center;
+    background-size: contain;
+}
+
+div.fondomainsup{
+    margin-top: -22px;
+    background-color: rgb(233, 116, 61);
+    display: block;
+}
+div.fondomainsup2{
+    display: block;
+}
+
+div.escudoestadio{
+    display: flex!important;
+    flex-direction: row;
+    margin-block: px;
+    height: 300px;
+   
+}
+
+/* div.escudoestadio2{
+    display: flex!important;
+    flex-direction: row;
+    margin-block: px;
+    height:px;
+   
+} */
+
+
+div.margenestop{
+    margin: 0 auto;
+    max-height: 1296px;
+    box-sizing: border-box;
+    margin-left: 225px;
+}
+
+hr{
+    color:  rgb(233, 116, 61);
+    size: 0;
+    height: -0;
+}
+
+div.plantillanegr{
+    text-align: center;
+    background-color: black;
+    color: orangered;
+}
+
+/* div.espaciado{
+    margin-top: px;
+} */
+
+#seleccion-menu{
+    margin:40px auto;
+    width:95%;
+    min-width:320px;
+    max-width:950px;
+    border-radius: 30%; 
+}    
+
+div.contenedor-opciones{
+    margin-top: 5px;
+    width: 100%;
+    clear: both;
+    display: inline-block;
+    background-color: rgb(53, 206, 61);
+}
+
+
+.contenedor-nombre{
+    position: relative;
+    display: block;
+    padding: 5px;
+    font-weight: 300px;
+    font-size: 20px;
+    background-color: rgb(53, 51, 51);
+    color: orangered;
+    text-decoration: none;
+    padding-left: 10px;
+    text-align: center;
+}
+
+div.bloqueimagen{
+    margin-top: 5px;
+    width: 30%; 
+    clear: both;
+    display: inline-block;
+    align-content: left;
+}
+
+div.cosas{
+    display: flex!important;
+    flex-direction: row;
+}
+
+div.centrmarg{
+    margin: 0 auto;
+    max-width: 950px;
+}
+
+div.textoo{
+    padding: 30px;
+    width: 40%;
+    color: black;
+}
+
+div.final{
+    color: black;
+    text-align: center;
+}
+
+.estilonaranja{
+    color: orangered;
+}
+
+.izquitaquilla{
+    float: left;
+    /* text-align: center; */
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-left: 400px;
+}
+
+.partidos{
+    margin-left: 400px;
+}
+
+.izquitaquilla2{
+    float: left;
+    /* text-align: center; */
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-left: 400px;
+}
+
+.boton{
+    position: relative;
+    /* margin-top: 4%; */
+    padding:1em 1.5em;
+    background-color: black;
+    color: orangered;
+    font-size: large;
+
+}

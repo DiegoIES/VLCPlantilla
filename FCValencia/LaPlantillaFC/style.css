@@ -1,0 +1,111 @@
+div.fondosuperior{
+    width: 100%;
+    color: white;
+    background-color: rgb(49, 49, 48);
+    text-align: center;
+    background-size: contain;
+}
+
+div.fondomainsup{
+    margin-top: -22px;
+    background-color: rgb(233, 116, 61);
+    display: block;
+}
+div.fondomainsup2{
+    display: block;
+}
+
+div.escudoestadio{
+    display: flex!important;
+    flex-direction: row;
+    margin-block: px;
+    height: 300px;
+   
+}
+
+/* .center{
+    align-items: center;
+    display: flex;
+    background-color: red;
+} */
+
+div.margenestop{
+    margin: 0 auto;
+    max-height: 1296px;
+    box-sizing: border-box;
+    margin-left: 225px;
+}
+
+hr{
+    color:  rgb(233, 116, 61);
+    size: 0;
+    height: -0;
+}
+
+.imagenizquierda{
+    float: left;
+}
+
+.imagenderecha{
+    float: right;
+}
+
+div.plantilla{
+    text-align: left;
+}
+
+div.plantillanegr{
+    text-align: center;
+    background-color: black;
+    color: orangered;
+}
+
+.imagen{
+    width: 129px;
+}
+
+.boton{
+    position: relative;
+    margin-top: 4%;
+    padding:1em 1.5em;
+    background-color: black;
+    color: orangered;
+    font-size: large;
+}
+
+.boton2{
+    position: relative;
+    margin-top: 4%;
+    padding:1em 1.5em;
+    background-color: black;
+    color: orangered;
+    font-size: large;
+}
+
+.boton3{
+    position: relative;
+    margin-top: 4%;
+    padding:1em 1.5em;
+    background-color: black;
+    color: orangered;
+    font-size: large;
+}
+
+.boton4{
+    position: relative;
+    margin-top: 4%;
+    padding:1em 1.5em;
+    background-color: black;
+    color: orangered;
+    font-size: large;
+}
+
+/* .subrayado{
+    display: inline-block;
+    background-color: orangered
+    heig
+} */
+
+div.centrini{
+    text-align: center;
+}
